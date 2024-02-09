@@ -1,6 +1,6 @@
 # BERTweetSent-Deep-Sentiment-Dive-with-tweets
 
-## BERT model from the Hugging Face Transformers library. Here's a detailed report summarizing the steps taken, performance improvements, and future steps:
+### BERT model from the Hugging Face Transformers library. Here's a detailed report summarizing the steps taken, performance improvements, and future steps:
 
 ## Steps Taken
 ### Imported Necessary Packages: 
